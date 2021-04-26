@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contact Us</title>
+    <link href="Styles.css" rel="stylesheet" type="text/css"/>
+</head>
+<body style="background-color:antiquewhite">
+    <h1> Fill out the form to get in touch!</h1>
+    <p>
+        <a href="mailto:contact@gmail.com">contact@gmail.com</a>
+    </p>
+    <form method="post" action="">
+        <fieldset>
+            <legend>Your Details and Enquiries</legend>
+            <ol>
+                <li>
+                    <label>
+                        <strong>Full Name</strong>
+                        <input type="text" name="Username"/>
+                    </label>
+                </li>
+
+                <li>
+                    <label>
+                        <stong>Telephone #</stong><br/>
+                        <input type="number" name="Phone"/>
+                    </label>
+                </li>
+
+                <li>
+                    <strong>Message</strong><br/>
+                    <textarea name="Message"
+                              cols="30" rows="10"> Add your message here
+                    </textarea>
+                </li>
+            </ol>
+        </fieldset>
+        <input type="Submit" value="Send"/>  <!--Creates submit btn-->
+    </form>
+</body>
+</html>
