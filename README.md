@@ -1,9 +1,10 @@
-# showcase-WebDev
+# Web Development Showcase
+
 Projects that showcase what I have learned to code in the MSSA program so far. Enjoy!
 
 ____________________
 
-Contents:
+MVC Contents:
 
           1. First MVC App
                     o Simple application that uses MVC to display "Hello World"
