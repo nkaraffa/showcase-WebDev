@@ -7,8 +7,8 @@ Contents:
 
           1. First MVC App
                     o Simple application that uses MVC to display "Hello World"
-          2. Mod4Demo
-                    o 
+          2. Multipler Controller (Mod4Demo)
+                    o Utilizes multiple controllers to display hard-coded employee information
           3. Mod5Demo
                     o 
           4. EmpManagement
