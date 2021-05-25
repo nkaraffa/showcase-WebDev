@@ -1,0 +1,15 @@
+D:\20486Allfiles\HW\MVCExtra1\bin\Debug\netcoreapp2.1\MVCExtra1.deps.json
+D:\20486Allfiles\HW\MVCExtra1\bin\Debug\netcoreapp2.1\MVCExtra1.runtimeconfig.json
+D:\20486Allfiles\HW\MVCExtra1\bin\Debug\netcoreapp2.1\MVCExtra1.runtimeconfig.dev.json
+D:\20486Allfiles\HW\MVCExtra1\bin\Debug\netcoreapp2.1\MVCExtra1.dll
+D:\20486Allfiles\HW\MVCExtra1\bin\Debug\netcoreapp2.1\MVCExtra1.pdb
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.csprojAssemblyReference.cache
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.AssemblyInfoInputs.cache
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.AssemblyInfo.cs
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.csproj.CoreCompileInputs.cache
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.RazorAssemblyInfo.cache
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.RazorAssemblyInfo.cs
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.RazorTargetAssemblyInfo.cache
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.dll
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.pdb
+D:\20486Allfiles\HW\MVCExtra1\obj\Debug\netcoreapp2.1\MVCExtra1.genruntimeconfig.cache
